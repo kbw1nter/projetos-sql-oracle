@@ -27,5 +27,5 @@ O projeto está organizado em pastas temáticas que representam meu avanço nos 
 
 ---
 
-* **LinkedIn:** [[www.linkedin.com/in/kananda-winter](https://www.linkedin.com/in/kananda-winter)]
+* **LinkedIn:** [www.linkedin.com/in/kananda-winter](https://www.linkedin.com/in/kananda-winter)
 * **Email:** kanandabw@gmail.com
